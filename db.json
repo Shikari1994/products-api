@@ -1,61 +1,28 @@
 {
-    "products": {
-      "iPhone 16 Plus": [
-        { "name": "15 Plus 256 Black", "price": "89.000 руб" },
-        { "name": "15 Plus 256 Pink", "price": "89.000 руб" },
-        { "name": "15 Plus 256 Green", "price": "89.000 руб" }
-      ],
-      "iPhone 14 Pro Max": [
-        { "name": "14 Pro Max 1Tb Black", "price": "127.000 руб" }
-      ],
-      "iPhone 14": [
-        { "name": "14 128 Starlight", "price": "56.000 руб" },
-        { "name": "14 128 Blue", "price": "56.000 руб" },
-        { "name": "14 128 Midnight", "price": "57.500 руб" },
-        { "name": "14 128 Purple", "price": "57.500 руб" },
-        { "name": "14 256 Purple", "price": "72.000 руб" },
-        { "name": "14 256 Midnight", "price": "72.000 руб" },
-        { "name": "14 256 Blue", "price": "72.000 руб" }
-      ],
-      "iPhone 13": [
-        { "name": "13 128 Blue", "price": "48.000 руб" },
-        { "name": "13 128 Green", "price": "48.000 руб" },
-        { "name": "13 128 Pink", "price": "49.000 руб" }
-      ],
-      "PlayStation 5": [
-        { "name": "PS5 Standard Edition", "price": "55.000 руб" },
-        { "name": "PS5 Digital Edition", "price": "45.000 руб" }
-      ],
-      "Xbox Series X": [
-        { "name": "Xbox Series X 1Tb", "price": "50.000 руб" },
-        { "name": "Xbox Series S 512Gb", "price": "35.000 руб" }
-      ],
-      "Nintendo Switch": [
-        { "name": "Nintendo Switch OLED", "price": "30.000 руб" },
-        { "name": "Nintendo Switch Lite", "price": "20.000 руб" }
-      ],
-      "Apple Watch": [
-        { "name": "Apple Watch Series 8 45mm", "price": "45.000 руб" },
-        { "name": "Apple Watch SE 40mm", "price": "30.000 руб" }
-      ],
-      "Samsung Galaxy Watch": [
-        { "name": "Galaxy Watch 6 44mm", "price": "40.000 руб" },
-        { "name": "Galaxy Watch 5 40mm", "price": "35.000 руб" }
-      ],
-      "Garmin Forerunner": [
-        { "name": "Forerunner 945", "price": "55.000 руб" },
-        { "name": "Forerunner 255", "price": "25.000 руб" }
-      ],
-      "Dyson Supersonic": [
-        { "name": "Dyson Supersonic Hair Dryer", "price": "30.000 руб" }
-      ],
-      "Philips": [
-        { "name": "Philips DryCare 2300", "price": "5.000 руб" },
-        { "name": "Philips ThermoProtect 2200", "price": "4.500 руб" }
-      ],
-      "Xiaomi": [
-        { "name": "Xiaomi Hair Dryer", "price": "3.500 руб" }
-      ]
-    }
+  "products": {
+    "Смартфоны": [
+      { "name": "iPhone 16 Plus 15 Plus 256 Black", "price": "89.000 руб" },
+      { "name": "iPhone 16 Plus 15 Plus 256 Pink", "price": "89.000 руб" },
+      { "name": "iPhone 16 Plus 15 Plus 256 Green", "price": "89.000 руб" },
+      { "name": "iPhone 14 Pro Max 14 Pro Max 1Tb Black", "price": "127.000 руб" },
+      { "name": "iPhone 14 14 128 Starlight", "price": "56.000 руб" },
+      { "name": "iPhone 14 14 128 Blue", "price": "56.000 руб" },
+      { "name": "iPhone 13 13 128 Blue", "price": "48.000 руб" }
+    ],
+    "Игровые приставки": [
+      { "name": "PlayStation 5 PS5 Standard Edition", "price": "55.000 руб" },
+      { "name": "Xbox Series X 1Tb", "price": "50.000 руб" },
+      { "name": "Nintendo Switch OLED", "price": "30.000 руб" }
+    ],
+    "Часы": [
+      { "name": "Apple Watch Series 8 45mm", "price": "45.000 руб" },
+      { "name": "Samsung Galaxy Watch 6 44mm", "price": "40.000 руб" },
+      { "name": "Garmin Forerunner 945", "price": "55.000 руб" }
+    ],
+    "Фены": [
+      { "name": "Dyson Supersonic Hair Dryer", "price": "30.000 руб" },
+      { "name": "Philips DryCare 2300", "price": "5.000 руб" },
+      { "name": "Xiaomi Hair Dryer", "price": "3.500 руб" }
+    ]
   }
-  
+}
