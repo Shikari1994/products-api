@@ -15,7 +15,7 @@
       { "name": "Nintendo Switch OLED", "price": "30.000 руб" }
     ],
     "Часы": [
-      { "name": "Apple Watch Series 8 45mm", "price": "45.000 руб" },
+      { "name": "Apple Watch Series 8 45mm", "price": "42.000 руб" },
       { "name": "Samsung Galaxy Watch 6 44mm", "price": "40.000 руб" },
       { "name": "Garmin Forerunner 945", "price": "55.000 руб" }
     ],
@@ -25,13 +25,13 @@
       { "name": "Xiaomi Hair Dryer", "price": "3.500 руб" }
     ],
     "Планшеты": [
-      { "name": "iPad Pro 12.9 128GB", "price": "120.000 руб" },
+      { "name": "iPad Pro 12.9 128GB", "price": "119.000 руб" },
       { "name": "iPad Air 10.9 64GB", "price": "80.000 руб" },
       { "name": "Samsung Galaxy Tab S8", "price": "90.000 руб" }
     ],
     "Ноутбуки": [
       { "name": "MacBook Pro 14 2023 M2", "price": "200.000 руб" },
-      { "name": "Dell XPS 15 9500", "price": "150.000 руб" },
+      { "name": "Dell XPS 15 9500", "price": "140.000 руб" },
       { "name": "HP Spectre x360", "price": "120.000 руб" }
     ],
     "Аксессуары Apple": [
