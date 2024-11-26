@@ -10,7 +10,7 @@
       { "name": "iPhone 13  128 Blue", "price": "48.000 руб" }
     ],
     "Игровые приставки": [
-      { "name": "PlayStation 5 Standard Edition", "price": "55.000 руб" },
+      { "name": "PlayStation 5 Standard Edition", "price": "52.000 руб" },
       { "name": "Xbox Series X 1Tb", "price": "50.000 руб" },
       { "name": "Nintendo Switch OLED", "price": "30.000 руб" }
     ],
@@ -25,7 +25,7 @@
       { "name": "Xiaomi Hair Dryer", "price": "3.500 руб" }
     ],
     "Планшеты": [
-      { "name": "iPad Pro 12.9 128GB", "price": "119.000 руб" },
+      { "name": "iPad Pro 12.9 128GB", "price": "120.000 руб" },
       { "name": "iPad Air 10.9 64GB", "price": "80.000 руб" },
       { "name": "Samsung Galaxy Tab S8", "price": "90.000 руб" }
     ],
