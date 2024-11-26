@@ -1,12 +1,12 @@
 {
   "products": {
     "Смартфоны": [
-      { "name": "iPhone 16 Plus  256 Black", "price": "90.000 руб" },
+      { "name": "iPhone 16 Plus  256 Black", "price": "91.000 руб" },
       { "name": "iPhone 16 Plus  256 Pink", "price": "89.000 руб" },
       { "name": "iPhone 16 Plus  256 Green", "price": "89.000 руб" },
       { "name": "iPhone 14 Pro Max 1Tb Black", "price": "127.000 руб" },
       { "name": "iPhone 14  128 Starlight", "price": "56.000 руб" },
-      { "name": "iPhone 14  128 Blue", "price": "55.000 руб" },
+      { "name": "iPhone 14  128 Blue", "price": "56.000 руб" },
       { "name": "iPhone 13  128 Blue", "price": "48.000 руб" }
     ],
     "Игровые приставки": [
@@ -31,7 +31,7 @@
     ],
     "Ноутбуки": [
       { "name": "MacBook Pro 14 2023 M2", "price": "200.000 руб" },
-      { "name": "Dell XPS 15 9500", "price": "140.000 руб" },
+      { "name": "Dell XPS 15 9500", "price": "141.000 руб" },
       { "name": "HP Spectre x360", "price": "120.000 руб" }
     ],
     "Аксессуары Apple": [
