@@ -1,12 +1,12 @@
 {
   "products": {
     "Смартфоны": [
-      { "name": "iPhone 16 Plus 15 Plus 256 Black", "price": "89.000 руб" },
+      { "name": "iPhone 16 Plus 15 Plus 256 Black", "price": "88.000 руб" },
       { "name": "iPhone 16 Plus 15 Plus 256 Pink", "price": "89.000 руб" },
       { "name": "iPhone 16 Plus 15 Plus 256 Green", "price": "89.000 руб" },
       { "name": "iPhone 14 Pro Max 14 Pro Max 1Tb Black", "price": "127.000 руб" },
       { "name": "iPhone 14 14 128 Starlight", "price": "56.000 руб" },
-      { "name": "iPhone 14 14 128 Blue", "price": "56.000 руб" },
+      { "name": "iPhone 14 14 128 Blue", "price": "55.000 руб" },
       { "name": "iPhone 13 13 128 Blue", "price": "48.000 руб" }
     ],
     "Игровые приставки": [
