@@ -1,7 +1,7 @@
 {
   "products": {
     "Смартфоны": [
-      { "name": "iPhone 16 Plus  256 Black", "price": "95.000 руб" },
+      { "name": "iPhone 16 Plus  256 Black", "price": "90.000 руб" },
       { "name": "iPhone 16 Plus  256 Pink", "price": "89.000 руб" },
       { "name": "iPhone 16 Plus  256 Green", "price": "89.000 руб" },
       { "name": "iPhone 14 Pro Max 1Tb Black", "price": "125.000 руб" },
@@ -17,7 +17,7 @@
     "Часы": [
       { "name": "Apple Watch Series 8 45mm", "price": "41.000 руб" },
       { "name": "Samsung Galaxy Watch 6 44mm", "price": "40.000 руб" },
-      { "name": "Garmin Forerunner 945", "price": "55.000 руб" }
+      { "name": "Garmin Forerunner 945", "price": "50.000 руб" }
     ],
     "Фены": [
       { "name": "Dyson Supersonic Hair Dryer", "price": "40.000 руб" },
