@@ -1,7 +1,7 @@
 {
   "products": {
     "Смартфоны": [
-      { "name": "iPhone 16 Plus  256 Black", "price": "95.000 руб" },
+      { "name": "iPhone 16 Plus  256 Black", "price": "90.000 руб" },
       { "name": "iPhone 16 Plus  256 Pink", "price": "90.000 руб" },
       { "name": "iPhone 16 Plus  256 Green", "price": "89.000 руб" },
       { "name": "iPhone 14 Pro Max 1Tb Black", "price": "125.000 руб" },
@@ -30,7 +30,7 @@
       { "name": "Samsung Galaxy Tab S8", "price": "91.000 руб" }
     ],
     "Ноутбуки": [
-      { "name": "MacBook Pro 14 2023 M2", "price": "200.000 руб" },
+      { "name": "MacBook Pro 14 2023 M2", "price": "199.000 руб" },
       { "name": "Dell XPS 15 9500", "price": "140.000 руб" },
       { "name": "HP Spectre x360", "price": "125.000 руб" }
     ],
