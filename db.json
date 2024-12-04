@@ -1,7 +1,7 @@
 {
   "products": {
     "Смартфоны": [
-      { "name": "iPhone 16 Plus  256 Black", "price": "95.000 руб" },
+      { "name": "iPhone 16 Plus  256 Black", "price": "90.000 руб" },
       { "name": "iPhone 16 Plus  256 Pink", "price": "90.000 руб" },
       { "name": "iPhone 16 Plus  256 Green", "price": "89.000 руб" },
       { "name": "iPhone 14 Pro Max 1Tb Black", "price": "125.000 руб" },
@@ -20,14 +20,14 @@
       { "name": "Garmin Forerunner 945", "price": "50.000 руб" }
     ],
     "Фены": [
-      { "name": "Dyson Supersonic Hair Dryer", "price": "40.000 руб" },
+      { "name": "Dyson Supersonic Hair Dryer", "price": "41.000 руб" },
       { "name": "Philips DryCare 2300", "price": "5.000 руб" },
       { "name": "Xiaomi Hair Dryer", "price": "3.600 руб" }
     ],
     "Планшеты": [
       { "name": "iPad Pro 12.9 128GB", "price": "120.000 руб" },
       { "name": "iPad Air 10.9 64GB", "price": "80.000 руб" },
-      { "name": "Samsung Galaxy Tab S8", "price": "90.000 руб" }
+      { "name": "Samsung Galaxy Tab S8", "price": "91.000 руб" }
     ],
     "Ноутбуки": [
       { "name": "MacBook Pro 14 2023 M2", "price": "200.000 руб" },
@@ -37,7 +37,7 @@
     "Аксессуары Apple": [
       { "name": "Apple Magic Mouse 2", "price": "10.000 руб" },
       { "name": "Apple Magic Keyboard", "price": "15.000 руб" },
-      { "name": "Apple AirPods Pro 2", "price": "25.000 руб" }
+      { "name": "Apple AirPods Pro 2", "price": "26.000 руб" }
     ]
   }
 }
