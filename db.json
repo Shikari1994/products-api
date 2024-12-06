@@ -1,181 +1,85 @@
 {
-  "products": {
-    "Смартфоны": {
-      "iPhone 16 Pro Max": [
-        { "name": "16 Pro Max 256 Black Titanium 🇯🇵", "price": "130.000 руб" },
-        { "name": "16 Pro Max 256 White Titanium 🇯🇵", "price": "133.000 руб" },
-        { "name": "16 Pro Max 256 Natural Titanium 🇯🇵", "price": "132.500 руб" },
-        { "name": "16 Pro Max 256 Desert Titanium 🇯🇵", "price": "129.000 руб" },
-        { "name": "16 Pro Max 512 Natural Titanium 🇯🇵", "price": "156.000 руб" },
-        { "name": "16 Pro Max 512 Black Titanium 🇯🇵", "price": "162.000 руб" },
-        { "name": "16 Pro Max 512 White Titanium 🇯🇵", "price": "155.000 руб" },
-        { "name": "16 Pro Max 512 Desert Titanium 🇯🇵", "price": "155.000 руб" },
-        { "name": "16 Pro Max 1Tb Desert Titanium 🇯🇵", "price": "172.000 руб" },
-        { "name": "16 Pro Max 1Tb Natural Titanium 🇯🇵", "price": "166.000 руб" }
-      ],
-      "iPhone 16 Pro": [
-        { "name": "16 Pro 128 Natural Titanium 🇯🇵", "price": "108.000 руб" },
-        { "name": "16 Pro 128 Black Titanium 🇯🇵", "price": "109.000 руб" },
-        { "name": "16 Pro 128 White Titanium 🇯🇵", "price": "110.000 руб" },
-        { "name": "16 Pro 128 Desert Titanium 🇯🇵", "price": "108.000 руб" },
-        { "name": "16 Pro 256 Natural Titanium 🇯🇵", "price": "123.500 руб" },
-        { "name": "16 Pro 256 White Titanium 🇯🇵", "price": "123.000 руб" },
-        { "name": "16 Pro 256 Desert Titanium 🇯🇵", "price": "118.500 руб" },
-        { "name": "16 Pro 256 Black Titanium 🇯🇵", "price": "118.500 руб" },
-        { "name": "16 Pro 512 Desert Titanium 🇯🇵", "price": "144.000 руб" },
-        { "name": "16 Pro 512 White Titanium 🇯🇵", "price": "144.000 руб" },
-        { "name": "16 Pro 512 Natural Titanium 🇯🇵", "price": "144.000 руб" },
-        { "name": "16 Pro 512 Black Titanium 🇯🇵", "price": "144.000 руб" },
-        { "name": "16 Pro 1Tb Black Titanium 🇯🇵", "price": "157.000 руб" }
-      ],
-      "iPhone 16 Plus": [
-        { "name": "16 Plus 128 White 🇯🇵", "price": "95.000 руб" },
-        { "name": "16 Plus 128 Black 🇯🇵", "price": "95.000 руб" },
-        { "name": "16 Plus 128 Ultramarine 🇯🇵", "price": "95.000 руб" },
-        { "name": "16 Plus 256 White 🇯🇵", "price": "107.000 руб" }
-      ],
-      "iPhone 16": [
-        { "name": "16 128 Black 🇮🇳", "price": "84.000 руб" },
-        { "name": "16 128 Ultramarine 🇯🇵", "price": "83.000 руб" },
-        { "name": "16 128 Pink 🇯🇵", "price": "83.000 руб" },
-        { "name": "16 128 Teal 🇯🇵", "price": "83.000 руб" },
-        { "name": "16 128 White 🇯🇵", "price": "83.000 руб" },
-        { "name": "16 256 White 🇯🇵", "price": "94.000 руб" },
-        { "name": "16 256 Ultramarine 🇯🇵", "price": "94.000 руб" },
-        { "name": "16 256 Black 🇯🇵", "price": "94.000 руб" },
-        { "name": "16 256 Pink 🇯🇵", "price": "95.000 руб" }
-      ],
-      "iPhone 15 Pro Max": [
-        { "name": "15 Pro Max 256 Black Titanium 🇯🇵", "price": "117.500 руб" },
-        { "name": "15 Pro Max 256 Blue Titanium 🇯🇵", "price": "116.000 руб" },
-        { "name": "15 Pro Max 256 Natural Titanium 🇯🇵", "price": "117.500 руб" },
-        { "name": "15 Pro Max 256 White Titanium 🇯🇵", "price": "118.000 руб" },
-        { "name": "15 Pro Max 512 Blue Titanium 🇯🇵", "price": "130.000 руб" },
-        { "name": "15 Pro Max 512 Natural Titanium 🇯🇵", "price": "130.000 руб" },
-        { "name": "15 Pro Max 512 White Titanium 🇯🇵", "price": "130.000 руб" },
-        { "name": "15 Pro Max 1Tb Natural Titanium 🇯🇵", "price": "145.000 руб" },
-        { "name": "15 Pro Max 1Tb Black Titanium 🇯🇵", "price": "145.000 руб" }
-      ],
-      "iPhone 15 Pro": [
-        { "name": "15 Pro 128 Blue Titanium 🇪🇺", "price": "99.000 руб" },
-        { "name": "15 Pro 128 Black Titanium 🇪🇺", "price": "99.000 руб" },
-        { "name": "15 Pro 128 Natural Titanium 🇪🇺", "price": "100.000 руб" },
-        { "name": "15 Pro 128 White Titanium 🇪🇺", "price": "99.000 руб" },
-        { "name": "15 Pro 256 Black Titanium 🇪🇺", "price": "112.000 руб" },
-        { "name": "15 Pro 256 White Titanium 🇪🇺", "price": "112.000 руб" },
-        { "name": "15 Pro 256 Blue Titanium 🇪🇺", "price": "113.000 руб" },
-        { "name": "15 Pro 512 White Titanium 🇪🇺", "price": "125.000 руб" },
-        { "name": "15 Pro 512 Natural Titanium 🇪🇺", "price": "125.000 руб" },
-        { "name": "15 Pro 512 Black Titanium 🇪🇺", "price": "124.000 руб" },
-        { "name": "15 Pro 512 Blue Titanium 🇪🇺", "price": "125.000 руб" },
-        { "name": "15 Pro 1Tb Natural Titanium 🇪🇺", "price": "133.500 руб" },
-        { "name": "15 Pro 1Tb Black Titanium 🇪🇺", "price": "133.500 руб" }
-      ],
-      "iPhone 15 Plus": [
-        { "name": "15 Plus 128 Black 🇮🇳", "price": "88.000 руб" },
-        { "name": "15 Plus 128 Blue 🇮🇳", "price": "88.000 руб" },
-        { "name": "15 Plus 128 Pink 🇮🇳", "price": "88.000 руб" },
-        { "name": "15 Plus 256 Black 🇮🇳", "price": "92.000 руб" },
-        { "name": "15 Plus 256 Pink 🇮🇳", "price": "92.000 руб" },
-        { "name": "15 Plus 256 Green 🇮🇳", "price": "92.000 руб" }
-      ],
-      "iPhone 15": [
-        { "name": "15 128 Blue 🇮🇳", "price": "68.000 руб" },
-        { "name": "15 128 Green 🇮🇳", "price": "67.500 руб" },
-        { "name": "15 128 Pink 🇮🇳", "price": "67.500 руб" },
-        { "name": "15 128 Black 🇮🇳", "price": "67.500 руб" },
-        { "name": "15 256 Black 🇮🇳", "price": "91.000 руб" },
-        { "name": "15 256 Green 🇮🇳", "price": "90.000 руб" },
-        { "name": "15 256 Blue 🇮🇳", "price": "91.000 руб" },
-        { "name": "15 256 Pink 🇮🇳", "price": "91.000 руб" }
-      ]
-    },
-    "MacBook": {
-      "MacBook Air 13 M1": [
-        { "name": "MacBook Air 13” 2020 M1 8/256 Gray", "price": "73.000 руб" },
-        { "name": "MacBook Air 13” 2020 M1 8/256 Gold", "price": "73.000 руб" }
-      ],
-      "MacBook Air 13 M2": [
-        { "name": "MacBook Air 13” 2023 M2 8/512 Midnight", "price": "122.400 руб" }
-      ],
-      "MacBook Air 13 M3": [
-        { "name": "MacBook Air 13” 2024 M3 8/256 Gray", "price": "108.600 руб" },
-        { "name": "MacBook Air 13” 2024 M3 8/256 Midnight", "price": "108.600 руб" },
-        { "name": "MacBook Air 13” 2024 M3 8/256 Silver", "price": "108.600 руб" },
-        { "name": "MacBook Air 13” 2024 M3 8/256 Starlight", "price": "108.600 руб" },
-        { "name": "MacBook Air 13” 2024 M3 8/512 Gray", "price": "127.600 руб" },
-        { "name": "MacBook Air 13” 2024 M3 8/512 Silver", "price": "127.600 руб" },
-        { "name": "MacBook Air 13” 2024 M3 8/512 Starlight", "price": "127.600 руб" }
-      ],
-      "MacBook Air 15 M2": [
-        { "name": "MacBook Air 15” 2023 M2 8/256 Silver", "price": "118.300 руб" },
-        { "name": "MacBook Air 15” 2023 M2 8/256 Midnight", "price": "118.300 руб" },
-        { "name": "MacBook Air 15” 2023 M2 8/512 Midnight", "price": "130.600 руб" },
-        { "name": "MacBook Air 15” 2023 M2 8/512 Gray", "price": "130.600 руб" }
-      ],
-      "MacBook Air 15 M3": [
-        { "name": "MacBook Air 15” 2024 M3 8/256 Silver", "price": "127.000 руб" },
-        { "name": "MacBook Air 15” 2024 M3 8/256 Gray", "price": "130.600 руб" },
-        { "name": "MacBook Air 15” 2024 M3 8/256 Midnight", "price": "130.600 руб" },
-        { "name": "MacBook Air 15” 2024 M3 8/256 Starlight", "price": "130.600 руб" },
-        { "name": "MacBook Air 15” 2024 M3 8/512 Midnight", "price": "148.200 руб" },
-        { "name": "MacBook Air 15” 2024 M3 8/512 Silver", "price": "148.200 руб" },
-        { "name": "MacBook Air 15” 2024 M3 8/512 Starlight", "price": "148.200 руб" }
-      ],
-      "MacBook Pro 14 M2 Pro": [
-        { "name": "MacBook Pro 14” M2 Pro 16/1Tb Gray", "price": "242.800 руб" },
-        { "name": "MacBook Pro 14” M2 Pro 16/1Tb Silver", "price": "242.800 руб" }
-      ],
-      "MacBook Pro 14 M3/M3 Pro": [
-        { "name": "MacBook Pro 14” M3 8/512 Gray", "price": "150.200 руб" },
-        { "name": "MacBook Pro 14” M3 8/512 Silver", "price": "150.200 руб" },
-        { "name": "MacBook Pro 14” M3 8/1Tb Silver", "price": "168.700 руб" },
-        { "name": "MacBook Pro 14” M3 8/1Tb Gray", "price": "168.700 руб" },
-        { "name": "MacBook Pro 14” M3 Pro 18/1Tb Silver", "price": "252.000 руб" },
-        { "name": "MacBook Pro 14” M3 Pro 18/1Tb Black", "price": "252.000 руб" },
-        { "name": "MacBook Pro 14” M3 Pro 18/512 Silver", "price": "194.000 руб" }
-      ],
-      "MacBook Pro 16 M1 Pro": [
-        { "name": "MacBook Pro 16” M1 Pro 16/1Tb Gray", "price": "222.300 руб" }
-      ],
-      "MacBook Pro 16 M2 Pro": [
-        { "name": "MacBook Pro 16” M2 Pro 16/512 Gray", "price": "221.200 руб" },
-        { "name": "MacBook Pro 16” M2 Pro 16/512 Silver", "price": "221.200 руб" },
-        { "name": "MacBook Pro 16” M2 Pro 16/1Tb Gray", "price": "247.000 руб" },
-        { "name": "MacBook Pro 16” M2 Pro 16/1Tb Silver", "price": "247.000 руб" }
-      ],
-      "MacBook Pro 16 M3 Pro": [
-        { "name": "MacBook Pro 16” M3 Pro 36/512 Silver", "price": "271.600 руб" },
-        { "name": "MacBook Pro 16” M3 Pro 36/512 Gray", "price": "271.600 руб" }
-      ],
-      "MacBook Pro 16 M3 Max": [
-        { "name": "MacBook Pro 16” M3 Max 48/1 Tb Silver", "price": "380.700 руб" }
-      ]
-    },
-    "Игровые приставки": [
-      { "name": "PlayStation 5 Standard Edition", "price": "52.000 руб" },
-      { "name": "Xbox Series X 1Tb", "price": "50.000 руб" },
-      { "name": "Nintendo Switch OLED", "price": "30.000 руб" }
-    ],
-    "Часы": [
-      { "name": "Apple Watch Series 8 45mm", "price": "41.000 руб" },
-      { "name": "Samsung Galaxy Watch 6 44mm", "price": "40.000 руб" },
-      { "name": "Garmin Forerunner 945", "price": "51.000 руб" }
-    ],
-    "Фены": [
-      { "name": "Dyson Supersonic Hair Dryer", "price": "41.000 руб" },
-      { "name": "Philips DryCare 2300", "price": "5.000 руб" },
-      { "name": "Xiaomi Hair Dryer", "price": "3.700 руб" }
-    ],
-    "Планшеты": [
-      { "name": "iPad Pro 12.9 128GB", "price": "120.000 руб" },
-      { "name": "iPad Air 10.9 64GB", "price": "80.000 руб" },
-      { "name": "Samsung Galaxy Tab S8", "price": "91.000 руб" }
-    ],
-    "Аксессуары Apple": [
-      { "name": "Apple Magic Mouse 2", "price": "10.000 руб" },
-      { "name": "Apple Magic Keyboard", "price": "15.000 руб" },
-      { "name": "Apple AirPods Pro 2", "price": "26.000 руб" }
-    ]
-  }
+
+ "products": {
+
+   "Смартфоны": [
+
+     { "name": "iPhone 16 Plus  256 Black", "price": "92.000 руб" },
+
+     { "name": "iPhone 16 Plus  256 Pink", "price": "92.000 руб" },
+
+     { "name": "iPhone 16 Plus  256 Green", "price": "89.000 руб" },
+
+     { "name": "iPhone 14 Pro Max 1Tb Black", "price": "125.000 руб" },
+
+     { "name": "iPhone 14  128 Starlight", "price": "56.000 руб" },
+
+     { "name": "iPhone 14  128 Blue", "price": "56.000 руб" },
+
+     { "name": "iPhone 13  128 Blue", "price": "48.000 руб" }
+
+   ],
+
+   "Игровые приставки": [
+
+     { "name": "PlayStation 5 Standard Edition", "price": "52.000 руб" },
+
+     { "name": "Xbox Series X 1Tb", "price": "50.000 руб" },
+
+     { "name": "Nintendo Switch OLED", "price": "30.000 руб" }
+
+   ],
+
+   "Часы": [
+
+     { "name": "Apple Watch Series 8 45mm", "price": "41.000 руб" },
+
+     { "name": "Samsung Galaxy Watch 6 44mm", "price": "40.000 руб" },
+
+     { "name": "Garmin Forerunner 945", "price": "51.000 руб" }
+
+   ],
+
+   "Фены": [
+
+     { "name": "Dyson Supersonic Hair Dryer", "price": "41.000 руб" },
+
+     { "name": "Philips DryCare 2300", "price": "5.000 руб" },
+
+     { "name": "Xiaomi Hair Dryer", "price": "3.700 руб" }
+
+   ],
+
+   "Планшеты": [
+
+     { "name": "iPad Pro 12.9 128GB", "price": "120.000 руб" },
+
+     { "name": "iPad Air 10.9 64GB", "price": "80.000 руб" },
+
+     { "name": "Samsung Galaxy Tab S8", "price": "91.000 руб" }
+
+   ],
+
+   "Ноутбуки": [
+
+     { "name": "MacBook Pro 14 2023 M2", "price": "199.000 руб" },
+
+     { "name": "Dell XPS 15 9500", "price": "140.000 руб" },
+
+     { "name": "HP Spectre x360", "price": "124.000 руб" }
+
+   ],
+
+   "Аксессуары Apple": [
+
+     { "name": "Apple Magic Mouse 2", "price": "10.000 руб" },
+
+     { "name": "Apple Magic Keyboard", "price": "15.000 руб" },
+
+     { "name": "Apple AirPods Pro 2", "price": "26.000 руб" }
+
+   ]
+
+ }
+
 }
