@@ -6,6 +6,15 @@
 
      { "name": "iPhone 16 Plus  256 Black", "price": "92.000 руб" },
 
+    { "name": "16 Pro Max 256 Black Titanium 🇯🇵", "price": "130.000 руб" },
+    
+    { "name": "16 Pro Max 256 White Titanium 🇯🇵", "price": "133.000 руб" },
+    
+    { "name": "16 Pro Max 256 Natural Titanium 🇯🇵", "price": "132.500 руб" },
+    
+     { "name": "16 Pro Max 256 Desert Titanium 🇯🇵", "price": "129.000 руб" },
+    
+
      { "name": "iPhone 16 Plus  256 Pink", "price": "92.000 руб" },
 
      { "name": "iPhone 16 Plus  256 Green", "price": "89.000 руб" },
@@ -62,9 +71,16 @@
 
    "Ноутбуки": [
 
+     { "name": "MacBook Air 13” 2024 M3 8/256 Silver", "price": "108.600 руб" },
+    
+        { "name": "MacBook Air 13” 2024 M3 8/256 Starlight", "price": "108.600 руб" },
+    
+        { "name": "MacBook Air 13” 2024 M3 8/512 Gray", "price": "127.600 руб" },
+
      { "name": "MacBook Pro 14 2023 M2", "price": "199.000 руб" },
 
      { "name": "Dell XPS 15 9500", "price": "140.000 руб" },
+     { "name": "MacBook Pro 16” M1 Pro 16/1Tb Gray", "price": "222.300 руб" },
 
      { "name": "HP Spectre x360", "price": "124.000 руб" }
 
